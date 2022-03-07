@@ -5,5 +5,5 @@ I have classified the species the iris flower from the famous Iris dataset (http
 3. Linear SVC Classifier,
 4. SVM with SGD, and 
 5. Decision Tree \
-Upon the evaluation, the SVM with the grid search classifies the species of the iris data set with higher accuracy of 1.00 among the five ML algorithms used here. On the other side, the SVM with SGD classifier seems to have the lowest accuracy (~ 0.56) among all.\
-  I also implemented the Tensorflow Deep Learning model finally. 
+Upon the evaluation, the SVM with the grid search classifies the species of the iris data set with higher accuracy of 1.00 among the five ML algorithms used here. On the other side, the SVM with SGD classifier seems to have the lowest accuracy (~ 0.56) among all. \
+I also implemented the Tensorflow Deep Learning model finally. 
