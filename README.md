@@ -7,4 +7,4 @@ I have classified the species of iris flowers from the famous Iris dataset (http
 
 Upon the evaluation, the SVM with the grid search and KNN are expected to be better in classifying the species of the iris data set with higher accuracy among the four ML algorithms used here. 
 
-It should be noted that we can also play and compare the performance of ML models by changing (or including the other dropped) variables and/or by fitting with other ML models.
+It should be noted that we can also play and compare the performance of the ML models by changing (or including the other dropped) variables and/or by fitting with other ML models.
