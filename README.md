@@ -4,5 +4,7 @@ I have classified the species of iris flowers from the famous Iris dataset (http
 2. Support Vector Machine (SVM), 
 3. Decision Tree, and
 4. K Nearest Neighbors (KNN)
+
 Upon the evaluation, the SVM with the grid search and KNN classifies the species of the iris data set with higher accuracy among the four ML algorithms used here. 
+
 It should be noted that we can also play and compare the performance by changing (or including the other dropped) variables and/or by fitting with other ML models.
